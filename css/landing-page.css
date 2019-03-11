@@ -30,12 +30,12 @@ h1.title-fade-in {
 .banner {
     height: 70px;
     background-color: #000000;
-/*    color: #fff;*/
+    /*    color: #fff;*/
     color: #E7B52D;
 }
 
 .containerBlack {
-    
+
 }
 
 #ribbon {
@@ -146,5 +146,10 @@ header.masthead h1 {
     opacity: 0.3; }
 
 footer.footer {
-    padding-top: 4rem;
-    padding-bottom: 4rem; }
+    padding-top: 2rem;
+    padding-bottom: 2rem; 
+    padding-right: 2rem;
+    padding-left: 2rem;
+    background-color: black;
+    width: 100%;
+}
